@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/lougansjs/Lougans/main/39998-web-development.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Coding">
+<img src="https://raw.githubusercontent.com/lougansjs/Lougans/main/39998-web-development.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
 
 <p align="left"> 
   Hello my name is Lougans, I am <strong>Fullstack Developer</strong>.<br>
