@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello my name is Lougans, I am <strong>Fullstack Developer</strong>.<br>
-  I work at Grupo Euax and every day I'm learnign something new.
+  I work at Grupo Euax and every day I'm learning something new.
 </p>
 
 <p align="left">
