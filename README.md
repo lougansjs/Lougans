@@ -1,29 +1,31 @@
-<img src="https://raw.githubusercontent.com/lougansjs/Lougans/main/39998-web-development.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Coding">
-
-<p align="left"> 
-  Hello my name is Lougans, I am <strong>Fullstack Developer</strong>.<br>
-  I work at Grupo Euax and every day I'm learning something new.
-</p>
-
-<p align="left">
- 🚀 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, Ruby, Rails, React, Mysql, Postgresql, Php and Node.</strong>
-</p>
-
-<p align="left">
-  🧰 Tools: <strong>Visual Studio Code, Linux, Teams, Git and GitHub.</strong>
-</p>
-
-<p align="left">
-  💌 If you want to find me on another social network, look over there and follow me or send me a message: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.instagram.com/lougans.js/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/lougans.js/"/></a>
+## Olá mochileiro! Eu sou o Lougans
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lougansjs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lougansjs&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lougans-ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+  <img align="center" alt="Lougans-rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
+  <img align="center" alt="Lougans-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Lougans-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lougans-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lougans-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Lougans-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Lougans-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="Lougans-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lougans-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://media1.tenor.com/images/3b7500b2a9a85ff89fb50198e077ee86/tenor.gif">
+</div>
   
-  <a href="https://www.linkedin.com/in/lougansdematos" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lougansdematos" /></a>
-
-  <a href="https://www.facebook.com/lougans.dematos/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/lougans.dematos/"/></a>
-</p>  
+  ##
+ 
+<div>
+  <a href="https://www.linkedin.com/in/lougansdematos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lougans.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lougans.lougans99@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/lougansjs/lougansjs/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
