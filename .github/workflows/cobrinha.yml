@@ -2,13 +2,14 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       # Snake Animation
       - uses: Platane/snk@master
