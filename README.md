@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lougans_matos)](https://twitter.com/lougans_matos)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/116911/lougansjs?tab=profile)](https://pt.stackoverflow.com/users/116911/lougansjs?tab=profile)
 
-I'm developer focused on Web Development, I'm 26 years old and based in Brazil. I currently work at <a href="https://grupoeuax.com.br">Grupo Euax</a>, a business accelerator, developing solutions for <a href="https://artia.com">Artia</a>, <a href="https://twygoead.com/site">Twygo</a> e <a href="https://fleeg.com">Fleeg</a> web applications.
+I'm developer focused on Web Development, I'm 26 years old and based in Brazil.
 I am passionate about almost all areas of programming, be it front-end, back-end, architecture, testing and I am always looking for knowledge and information about these topics.
 My current focus is architecture, mainly with regard to finding solutions for application performance and observability.
 If you have something interesting that helped you at some point, I'd love to hear about it too and you can send it to me via any of the social networks listed above.
